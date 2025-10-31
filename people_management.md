@@ -51,7 +51,8 @@ To start, ask yourself:
 # Create high performing teams
 
 Fear of failure, of speaking up, or of being blamed for mistakes can prevent a team from sharing its best ideas. Let’s break down three common scenarios and see how a simple shift in your approach can build a truly high-performing team.
-Build strong one-on-one relationships
+
+**Build strong one-on-one relationships**
 
 Go beyond the status update in your one-on-ones. These meetings are a crucial time to build trust and learn what's challenging and motivating your team—don't waste the opportunity.  
 
@@ -79,11 +80,11 @@ A better approach
 
     Manager: “That’s a valid concern. I appreciate the heads up. Let’s figure out what we can do to make the timeline feel more manageable.”
 
-Why it works
+ Why it works
 
-    Demonstrates active listening: The manager invites and acknowledges the team member’s concerns, making them feel heard and valued. This builds the trust necessary for honest communication.
+Demonstrates active listening: The manager invites and acknowledges the team member’s concerns, making them feel heard and valued. This builds the trust necessary for honest communication.
 
-    Encourages collaboration: By involving the team member in finding solutions, the manager creates a collaborative environment, helping to build trust. 
+Encourages collaboration: By involving the team member in finding solutions, the manager creates a collaborative environment, helping to build trust. 
 
 Encourage open communication
 
@@ -145,5 +146,5 @@ Key takeaways
 
 Your daily conversations are the most powerful tool you have to build a high-performing team. Shift your one-on-ones from simple status updates to genuine dialogues. In team meetings, don't settle for silence; actively invite dissenting opinions by asking, "What perspectives are we missing?" Finally, re-frame project failures from a search for blame to a quest for learning, asking, "What can we learn from this experience?" By changing your questions, you change the team’s culture. And that is how you build a team that doesn’t just perform—it excels. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0NDQ2OTQ4LC0xOTgwMzc2MzUxXX0=
+eyJoaXN0b3J5IjpbMTM5MDAwNTY0MiwtMTk4MDM3NjM1MV19
 -->
