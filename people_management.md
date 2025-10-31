@@ -80,13 +80,13 @@ A better approach
 
     Manager: “That’s a valid concern. I appreciate the heads up. Let’s figure out what we can do to make the timeline feel more manageable.”
 
- Why it works
+ **Why it works**
 
 Demonstrates active listening: The manager invites and acknowledges the team member’s concerns, making them feel heard and valued. This builds the trust necessary for honest communication.
 
 Encourages collaboration: By involving the team member in finding solutions, the manager creates a collaborative environment, helping to build trust. 
 
-Encourage open communication
+**Encourage open communication**
 
 Silence in a meeting is often mistaken for agreement. In reality, silence can signal that the team is uncomfortable sharing different opinions or concerns. When you create an environment where a team is comfortable challenging ideas, it can lead to better solutions and help the team reach its goals.
 
@@ -108,7 +108,7 @@ A better approach
 
     Manager: "That's a great point, thank you for raising it. Tell me more. That’s exactly the kind of thinking we need to make this strategy solid."
 
-Why it works
+**Why it works**
 
     Sets an open tone: The manager actively invites different perspectives, framing it as a valuable part of the process. This makes team members more comfortable speaking up.
 
@@ -116,7 +116,7 @@ Why it works
 
     Focuses on improvement: The goal shifts from getting quick approval to building the best possible strategy together, leveraging the team's full expertise.
 
-Create a culture of learning, not blame
+**Create a culture of learning, not blame**
 
 How a team handles failure is a great test of its culture. When managers focus on blame, it creates fear and stifles innovation. Focusing on learning from mistakes, however, encourages open discussion about failures and the kind of risk-taking that can lead to breakthroughs.
 
@@ -136,15 +136,15 @@ A better approach
 
     Manager: "That’s a great observation, thank you for sharing. Can you tell us more? And does anyone else have thoughts on how we might improve our staffing forecast process going forward?"
 
-Why it works
+**Why it works**
 
     Focuses on collective learning and improvement: Instead of focusing on the mistake, the manager frames the discussion around getting better as a team.
 
     Removes the fear of mistakes: By explicitly removing blame and thanking the team member for their input, the manager creates an environment where team members feel supported when they talk about mistakes.
 
-Key takeaways
+**Key takeaways**
 
 Your daily conversations are the most powerful tool you have to build a high-performing team. Shift your one-on-ones from simple status updates to genuine dialogues. In team meetings, don't settle for silence; actively invite dissenting opinions by asking, "What perspectives are we missing?" Finally, re-frame project failures from a search for blame to a quest for learning, asking, "What can we learn from this experience?" By changing your questions, you change the team’s culture. And that is how you build a team that doesn’t just perform—it excels. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDAwNTY0MiwtMTk4MDM3NjM1MV19
+eyJoaXN0b3J5IjpbNDU3MTUwOTIyLC0xOTgwMzc2MzUxXX0=
 -->
