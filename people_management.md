@@ -3,7 +3,8 @@
 Your biggest career transition might not be a new title—but a new mindset. The skills that made you a star performer are different from the ones that are most useful when you are endeavoring to become a star manager. 
 
 Let’s explore three common scenarios for new managers that highlight the critical mindset shifts you’ll need for success: focusing on team results, fostering team member growth, and considering the impact of every decision on the team. 
-Shift 1: Prioritize team results
+
+**Shift 1: Prioritize team results**
 
 The Scenario: You’re a talented graphic designer whose stunning layouts have won awards for originality. You’ve been promoted to manager of the design team. On your first day, a well-known luxury brand requests marketing materials for a new campaign. 
 
@@ -12,7 +13,8 @@ Individual Mindset: You can already envision the perfect design. Your instinct i
 Manager Mindset: As a manager, however, your role has changed. Your job isn’t to be the best designer in the room, it’s to set the whole design team up for success. You decide to distribute the work saying, "We’ve got an important new client and a fantastic opportunity for our team. I'd like to propose an approach where each designer contributes their unique strengths to different aspects of the campaign." You can feel a wave of surprise, then excitement, ripple through the team.
 
 Mindset Shift: As an individual contributor, your value was in your personal output. As a manager, your value is in the output of your entire team. Transitioning to a manager mindset means you’re prioritizing teamwork and the team's collective results over your own personal ambition. 
-Shift 2: Focus on team members’ career growth 
+
+**Shift 2: Focus on team members’ career growth**
 
 The Scenario: You’re now managing the same software team you have been a member of for a few years. Your company just announced a new initiative to integrate AI into all products. The next day, a request arrives to integrate AI into a new product feature.  
 
@@ -21,7 +23,8 @@ Individual Mindset: You are focused on assigning the work quickly to check it of
 Manager Mindset: You think about each person on the team and who might be the best fit for the project based not only on their availability, but also on their skills, interests, and career goals. You recall that a team member, Kenji, was excited about the new initiative and has already been using AI in interesting ways in his existing work. You see the potential for this to be a leadership opportunity for Kenji. You decide to have a conversation with Kenji to gauge his interest.
 
 Mindset Shift: Transitioning to a manager mindset means you’re no longer just assigning tasks to get the work done; you are a leader seeking to find the right person for the right project, aligning their individual interests with company goals.
-Shift 3:  Embrace impactful decision making
+
+**Shift 3:  Embrace impactful decision making**
 
 The Scenario: You were one of the top analysts at a leading financial company, and now you manage the team. You are swamped with end-of-year reporting when an important client asks for help with an urgent project: analyzing a huge business deal worth billions of dollars. They say they need a full report and your recommendation on a deadline that seems impossible to meet. 
 
@@ -32,7 +35,8 @@ Manager Mindset: You pause to consider the risks. You recognize that in financia
 Based on the team’s input, you talk with the client and say, "A deal this big requires very careful research. To do it right, we need more time than the current schedule allows. We can provide the most important information now, and then follow up with our complete analysis." The client agrees, giving your team the time required for high-quality work.
 
 Mindset Shift: As an individual contributor, your instinct was to solve the immediate problem. As a manager, your focus is on the broader impact of your decisions, choosing what is best for the team to produce better work overall.
-Key takeaway
+
+**Key takeaway**
 
 It takes effort to shift your thinking into a manager mindset, but doing so will empower your team and drive meaningful outcomes. 
 
@@ -44,7 +48,7 @@ To start, ask yourself:
 
 3. In my next decision, how can I better weigh the potential impact on the team?
 
-## Create high performing teams
+# Create high performing teams
 
 Fear of failure, of speaking up, or of being blamed for mistakes can prevent a team from sharing its best ideas. Let’s break down three common scenarios and see how a simple shift in your approach can build a truly high-performing team.
 Build strong one-on-one relationships
@@ -141,5 +145,5 @@ Key takeaways
 
 Your daily conversations are the most powerful tool you have to build a high-performing team. Shift your one-on-ones from simple status updates to genuine dialogues. In team meetings, don't settle for silence; actively invite dissenting opinions by asking, "What perspectives are we missing?" Finally, re-frame project failures from a search for blame to a quest for learning, asking, "What can we learn from this experience?" By changing your questions, you change the team’s culture. And that is how you build a team that doesn’t just perform—it excels. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAzNzYzNTFdfQ==
+eyJoaXN0b3J5IjpbMjQ0NDQ2OTQ4LC0xOTgwMzc2MzUxXX0=
 -->
