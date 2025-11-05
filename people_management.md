@@ -185,7 +185,7 @@ After spending just a small part of her morning, Maria feels confident in her se
 
 By using AI, Maria went from being an administrator, bogged down by low-value tasks, to a strategist, freed up to focus on the high-value work of leading her team. This shift allowed her to dedicate her time and mental energy to the actual substance and desired outcomes of the session.
 
-## **Unlocking AI: The art of the prompt**
+ **Unlocking AI: The art of the prompt**
 
 What truly separates the two approaches isn't just the use of AI, but _how_ it's used. The magic in the "better approach" lies in Maria's process: she writes effective prompts and then refines AI’s responses with her own experiences. She isn't just asking a question; she's giving clear, context-rich instructions that guide the AI assistant toward a specific and high-quality output. She then iterates on that result, adding detail and substance based on her expertise.
 
@@ -242,6 +242,6 @@ Resources for more information
 
 .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTc0OTU0NDAsMjcxNjQ2OTYyLDQ1Nz
-E1MDkyMiwtMTk4MDM3NjM1MV19
+eyJoaXN0b3J5IjpbNjQ2MTEyMjA4LDI3MTY0Njk2Miw0NTcxNT
+A5MjIsLTE5ODAzNzYzNTFdfQ==
 -->
