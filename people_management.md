@@ -415,7 +415,7 @@ _I understand you’re working on [project name] and wanted to connect. Our team
 
 _Please let me know if there’s anything I can do to help. I’m open to meet or have a call if you have questions or want to talk through anything._
 
-## **From connection to champion: How to strengthen your network**
+ **From connection to champion: How to strengthen your network**
 
 The first outreach is just the beginning. Developing relationships over time is what can turn a simple connection into a strong champion. Make relationship-building a consistent part of your routine.
 
@@ -451,7 +451,7 @@ Managing up and across is a skill that multiplies your effectiveness. To start b
     
 3.  **What is my next step?** Block time on your calendar to send that first email or to schedule that follow-up coffee chat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzMjMwMzMwLDIzNzE4MzQ4NSwtNzQwMz
-U5NjA2LDk2MTA2MTkxNCwyNzE2NDY5NjIsNDU3MTUwOTIyLC0x
-OTgwMzc2MzUxXX0=
+eyJoaXN0b3J5IjpbMTM5MTczMDkwNiwyODMyMzAzMzAsMjM3MT
+gzNDg1LC03NDAzNTk2MDYsOTYxMDYxOTE0LDI3MTY0Njk2Miw0
+NTcxNTA5MjIsLTE5ODAzNzYzNTFdfQ==
 -->
