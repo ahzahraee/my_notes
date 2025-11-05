@@ -265,7 +265,105 @@ In this activity, you'll act as a manager and address three common team challeng
 This activity is optional but highly recommended to help you practice management skills. The next course item will provide you with a completed exemplar to compare to your own work. You will not be able to access the exemplar until you have completed this activity.
 
 
+## Scenario 1: A stagnant team
+
+Goal: Create a team environment that supports curiosity, risk-taking and growth.
+
+You are a manager joining a new team that has seen stagnant performance for three quarters. You believe that fostering a culture of learning is key to innovation and future success. Your goal this first quarter is to create a team environment that encourages curiosity, risk-taking, and growth. As part of this goal, you want to explore team activities that encourage a culture of learning.
+
+**Step 1: Brainstorm team activities with Gemini**
+
+Use Gemini to help you create a list of team activities that build a culture of learning. You can enter a prompt of your own or copy and paste the example into Gemini's chat box.
+
+-   **Example prompt:** _“My goal as a manager this quarter is to create a team environment that encourages curiosity, risk-taking, and growth. Suggest three simple activities to add to our weekly meetings to encourage this. The activities should be 30 minutes or less, and should be suitable for both in-person and remote meetings. Explain why each activity will help support my goal.”_
+
+**Step 2: Choose a strategy**
+
+Open your **activity template** and go to the **Scenario 1** section. First, identify the single **Activity** that best helps you achieve your goal, adapting Gemini's initial suggestions to your needs, or adding your own. Then, explain **Why** you believe this activity is the most effective choice.
+
+**Activity**
+
+**Why** this approach is the best choice
+
+## Scenario 2: A significant error
+
+Goal: Build trust and improve team processes; focus the conversation on learning, not blame.
+
+Your team just experienced a major project delay due to a significant error. Morale is low, and you sense your team is worried about who will be blamed. Your goal is to use experience as an opportunity to build trust and improve team processes, focusing the conversation on learning, rather than fault. Your plan is to lead a team meeting to discuss the error.
+
+Step 1: Prepare for the conversation with help from Gemini
+
+Use Gemini to help you draft an opening statement and questions for the team meeting. You can enter a prompt of your own, or copy and paste one of the examples. The opening statement should focus on how the team can learn from the error, instead of finding someone to blame. The questions should help to reframe the experience as a learning opportunity.
+
+Example prompt:  “Generate a guide for leading a team conversation following a significant error. My goal is to build trust, improve our processes, and turn this into a learning opportunity that avoids placing blame. The guide must include two parts:
+
+An opening statement: A brief script to start the meeting, setting an encouraging tone that helps the team focus on learning from what happened, not on who is to blame.
+
+Five guiding questions: A list of open-ended questions to guide the team discussion. For each question, provide a short rationale explaining how it helps analyze the process and encourages constructive, forward-looking dialogue.
+
+Step 2: Identify questions
+
+Open your activity template and go to the Scenario 2 section. First, add your Brief opening statement. Then, list three Questions that best help you achieve your goal, adapting Gemini’s initial suggestions to your needs, or adding your own. Finally, explain Why these questions are the best choice to help.
+
+**Brief opening statement**
+
+**Questions**
+
+1.
+
+2.
+
+3.
+
+**Why** these questions are the best choice
+
+## Scenario 3: Team silence
+
+Goal: Clarify that you genuinely want the team's honest feedback and perspective.
+
+You are a manager who just pitched a new, transformative process to your team. Instead of the discussion you’d hoped for, you were met with complete silence. You worry that your passion for the idea came across as a final decision. Your goal is to clarify that you genuinely want the team's honest feedback and perspective.
+
+Step 1: Brainstorm approaches with Gemini
+
+Use Gemini to help you generate a list of ways to encourage team members to share their perspectives. You can use your own prompt or copy and paste the example.
+
+Example prompt: “I recently pitched an idea in a team meeting, but no one responded or offered feedback. Suggest three different ways I can follow up with my team about this silence. My goal is to make it clear that I genuinely want to hear their perspective as a manager and make it easier for them to share their honest feedback on the idea. Explain why each approach will help support this goal.”
+
+Step 2: Identify an approach
+
+In your activity template, go to the Scenario 3 section. First, identify one Approach that best helps you achieve your goal, adapting Gemini’s initial suggestions to your needs, or adding your own. Next, explain Why this approach is the best choice to help.
+
+**Approach**
+
+**Why** this approach is the best choice
+
+Scenario 4: Your own scenario
+
+Goal: Describe your goal
+
+Create your own scenario. Think of a time when you experienced a challenge with team effectiveness. For example:
+
+A tense meeting where no one shared their opinions.
+
+A team member was uncomfortable asking for help from others on the team.
+
+Someone felt afraid to share an idea.
+
+Step 1: Brainstorm approaches with Gemini
+
+Use Gemini to help you come up with a list of approaches to help you reach your goal. You can enter your own prompt or copy and paste the example.
+
+Example prompt: “Suggest three different approaches I can take to [describe your goal, e.g., help a team member that feels uncomfortable asking for help from others on the team]. Explain why each approach will help support this goal.”
+
+Step 2: Identify an approach
+
+In your activity template, go to the Scenario 4 section. First, identify one Approach that best helps you achieve your goal, adapting Gemini’s initial suggestions to your needs, or adding your own. Then, explain Why this approach is the best choice to help.
+
+**Approach**
+
+**Why** this approach is the best choice
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDM1OTYwNiw5NjEwNjE5MTQsMjcxNj
-Q2OTYyLDQ1NzE1MDkyMiwtMTk4MDM3NjM1MV19
+eyJoaXN0b3J5IjpbMTU1MTU4NTkxOSwtNzQwMzU5NjA2LDk2MT
+A2MTkxNCwyNzE2NDY5NjIsNDU3MTUwOTIyLC0xOTgwMzc2MzUx
+XX0=
 -->
