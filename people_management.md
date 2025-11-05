@@ -239,9 +239,19 @@ Resources for more information
 
 -   Learn more about using AI and writing AI prompts with the [Google AI Essentials Specialization](https://www.coursera.org/learn/google-ai-essentials)
     
+# Excersis
 
-.
+
+Effective teams don't just happen—they're built. Great teams are able to discuss challenges openly, collaborate on hard problems, and treat mistakes as learning opportunities. This leads to innovation, improvement, and better results.
+
+As a manager you can build team effectiveness in three key ways:
+
+1.  Develop one-on-one relationships by getting to know team members beyond their job titles. This builds trust.
+    
+2.  Encourage open communication by welcoming feedback and inviting different perspectives across the team.
+    
+3.  Create a culture of learning, not blame, where mistakes are considered opportunities for growth and improvement.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxMDYxOTE0LDI3MTY0Njk2Miw0NTcxNT
-A5MjIsLTE5ODAzNzYzNTFdfQ==
+eyJoaXN0b3J5IjpbNzE3Njg5ODEyLDk2MTA2MTkxNCwyNzE2ND
+Y5NjIsNDU3MTUwOTIyLC0xOTgwMzc2MzUxXX0=
 -->
