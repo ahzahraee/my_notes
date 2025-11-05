@@ -337,7 +337,7 @@ In your activity template, go to the Scenario 3 section. First, identify one App
 
 **Why** this approach is the best choice
 
-Scenario 4: Your own scenario
+## Scenario 4: Your own scenario
 
 Goal: Describe your goal
 
@@ -363,7 +363,7 @@ In your activity template, go to the Scenario 4 section. First, identify one App
 
 **Why** this approach is the best choice
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTU4NTkxOSwtNzQwMzU5NjA2LDk2MT
-A2MTkxNCwyNzE2NDY5NjIsNDU3MTUwOTIyLC0xOTgwMzc2MzUx
-XX0=
+eyJoaXN0b3J5IjpbMjM3MTgzNDg1LC03NDAzNTk2MDYsOTYxMD
+YxOTE0LDI3MTY0Njk2Miw0NTcxNTA5MjIsLTE5ODAzNzYzNTFd
+fQ==
 -->
