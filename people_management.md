@@ -158,7 +158,7 @@ Let's look at a real-world example of this partnership in action.
 
 Maria manages a marketing team and needs to plan a critical half-day strategy session for the team to set priorities for next year. She has a high-level strategy and goals, but the specifics aren't fleshed out on how the team will achieve them. She's short on time and starting from scratch.
 
-*A basic approach**
+**A basic approach**
 
 Maria opens a blank document on her computer, titles it “Strategy Session”, and shares it with the team, inviting them to help plan the agenda. After ideas trickle in over the next few days, Maria spends several hours pulling together the session’s objectives, a rough agenda, and pre-reading material. Heading into the strategy session, she feels she wasted valuable time on administrative tasks instead of focusing on the actual strategic outcomes of the session.
 
@@ -246,6 +246,6 @@ Resources for more information
 
 .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA0MTc3MTIsNDU3MTUwOTIyLC0xOT
-gwMzc2MzUxXX0=
+eyJoaXN0b3J5IjpbMjcxNjQ2OTYyLDQ1NzE1MDkyMiwtMTk4MD
+M3NjM1MV19
 -->
