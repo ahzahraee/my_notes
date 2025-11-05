@@ -225,13 +225,13 @@ A great prompt provides all the information the AI needs to succeed. Let's decon
 
 AI's output is a starting point, not a final product. Always evaluate the response for accuracy and bias, and then iterate by refining your prompt or editing the output directly. The best results come from a partnership where AI provides the first draft and you provide the final, human touch.
 
-## **Use AI responsibly**
+ **Use AI responsibly**
 
 Be thoughtful about the information you input into publicly available AI tools. You never want to share confidential or sensitive information about your company, or personal information about yourself or coworkers. When in doubt, don’t share the information. You can also check if your organization has an enterprise version of an AI tool that is approved for other types of use.
 
 Many organizations have policies for using AI. Check your organization’s policies before using AI and be sure to share that policy with the team.
 
-## **Key takeaways**
+ **Key takeaways**
 
 When used effectively and responsibly, AI can be a valuable asset. Not only can it help you become more efficient and productive, AI can create more time for strategic thinking and innovation. Take the time to learn how the tools work and remember best practices, like the prompting framework, to get the most value from AI.
 
@@ -242,6 +242,6 @@ Resources for more information
 
 .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU2MDE1MTAsMjcxNjQ2OTYyLDQ1Nz
-E1MDkyMiwtMTk4MDM3NjM1MV19
+eyJoaXN0b3J5IjpbOTYxMDYxOTE0LDI3MTY0Njk2Miw0NTcxNT
+A5MjIsLTE5ODAzNzYzNTFdfQ==
 -->
