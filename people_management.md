@@ -145,6 +145,107 @@ A better approach
 **Key takeaways**
 
 Your daily conversations are the most powerful tool you have to build a high-performing team. Shift your one-on-ones from simple status updates to genuine dialogues. In team meetings, don't settle for silence; actively invite dissenting opinions by asking, "What perspectives are we missing?" Finally, re-frame project failures from a search for blame to a quest for learning, asking, "What can we learn from this experience?" By changing your questions, you change the team’s culture. And that is how you build a team that doesn’t just perform—it excels. 
+
+# Use AI to be a more effective manager
+
+When was the last time you had a full hour for uninterrupted strategic thinking? Too often, routine tasks get in the way of impactful management work, like checking in with your team, strategic planning, and your own professional development. AI tools can help, freeing you up to focus on what matters most.
+
+The key to saving time with AI is understanding where it can provide support. AI tools can’t manage a team—that’s your responsibility—but they can help you with a wide range of other tasks like brainstorming, summarizing, and drafting communication. By collaborating with AI to provide a strong first draft of these tasks, you save time on administrative work and free up your mental energy to focus on the truly human aspects of management: strategic thinking, coaching your team, building relationships, and using your experience to make final decisions.
+
+Let's look at a real-world example of this partnership in action.
+
+**Scenario: Planning a team strategy session**
+
+Maria manages a marketing team and needs to plan a critical half-day strategy session for the team to set priorities for next year. She has a high-level strategy and goals, but the specifics aren't fleshed out on how the team will achieve them. She's short on time and starting from scratch.
+
+*A basic approach**
+
+Maria opens a blank document on her computer, titles it “Strategy Session”, and shares it with the team, inviting them to help plan the agenda. After ideas trickle in over the next few days, Maria spends several hours pulling together the session’s objectives, a rough agenda, and pre-reading material. Heading into the strategy session, she feels she wasted valuable time on administrative tasks instead of focusing on the actual strategic outcomes of the session.
+
+Now, let's see how Maria could approach this differently using AI as a partner.
+
+**A better approach**
+
+-   First, Maria asks an AI assistant, like [Gemini](https://gemini.google.com/)
+    
+
+-   , to help her develop a meaningful strategy session using a prompt like:
+    
+
+_"You are a seasoned marketing strategist. Define 3-4 clear, actionable objectives and a detailed agenda for a half-day team strategy session. We want to translate our high-level strategy into a detailed, tactical plan for the year. Present the objectives as a numbered list, each with a brief rationale explaining its importance to the session. Structure the agenda in three parts: a detailed, timed schedule for the half-day session, a description of each activity, and an explanation of how that activity will help meet the session’s objectives. For reference, here are some ideas …<Maria adds the “Strategy Session” document the team contributed to.>"_
+
+Within seconds, she has a list of focused objectives and a tailored agenda that provide a solid foundation for the meeting. Maria then spends a few minutes revising the objectives and agenda, giving them the detail and substance that only she can provide.
+
+-   Then, instead of staring at a blank page to create pre-reading materials, Maria uploads related data and documents to Gemini along with the following prompt:
+    
+
+_"Summarize the attached annual performance report, social media analytics, and competitor analysis into a single-page pre-reading document for the team. Identify key themes and propose strategic opportunities for the team to discuss."_
+
+In minutes, the AI assistant produces a draft of the pre-reading material. This saved Maria hours of work and allowed her to use her expertise to quickly finalize the document, ensuring her team would arrive at the session fully prepared.
+
+After spending just a small part of her morning, Maria feels confident in her session plans and is ready to share them with the team.
+
+**Why it's better**
+
+By using AI, Maria went from being an administrator, bogged down by low-value tasks, to a strategist, freed up to focus on the high-value work of leading her team. This shift allowed her to dedicate her time and mental energy to the actual substance and desired outcomes of the session.
+
+## **Unlocking AI: The art of the prompt**
+
+What truly separates the two approaches isn't just the use of AI, but _how_ it's used. The magic in the "better approach" lies in Maria's process: she writes effective prompts and then refines AI’s responses with her own experiences. She isn't just asking a question; she's giving clear, context-rich instructions that guide the AI assistant toward a specific and high-quality output. She then iterates on that result, adding detail and substance based on her expertise.
+
+Learning to craft a good prompt is the key to transforming AI from a simple tool into an effective, collaborative assistant.
+
+## **The five components of an effective prompt**
+
+A great prompt provides all the information the AI needs to succeed. Let's deconstruct Maria's prompt to see these five key ingredients in action.
+
+### **Deconstructing the prompt**
+
+1.  [Persona] _“You are a seasoned marketing strategist.”_
+    
+2.  [Task] _“Define 3-4 clear, actionable objectives and a detailed agenda for a half-day team strategy session.”_
+    
+3.  [Context] _“We want to translate our high-level strategy into a detailed, tactical plan for the year.”_
+    
+4.  [Format] _“Present the objectives as a numbered list, each with a brief rationale explaining its importance to the session. Structure the agenda in three parts: a detailed, timed schedule for the half-day session, a description of each activity, and an explanation of how that activity will help meet the session’s objectives”_
+    
+5.  [Example] _“For reference, here are initial thoughts from the team…<Maria adds the “Strategy Session” document>.”_
+    
+
+### **The prompting framework explained**
+
+1.  **Assign a Persona**: Tell the AI who to be. This sets the tone, perspective, and expertise for the response.
+    
+2.  **Define the Task**: State exactly what you want the AI to do. Use clear, specific action verbs.
+    
+3.  **Provide Context**: Explain the "why" behind the task. What is the overall goal? This is crucial for getting relevant results.
+    
+4.  **Specify the Format**: Tell the AI how to structure the output. Should it be a list, a table, a paragraph, or an email?
+    
+5.  **Include an Example**: If possible, provide a reference of what you're looking for. This helps the AI understand your quality bar and style.
+    
+
+## **The final step: Evaluate and iterate**
+
+AI's output is a starting point, not a final product. Always evaluate the response for accuracy and bias, and then iterate by refining your prompt or editing the output directly. The best results come from a partnership where AI provides the first draft and you provide the final, human touch.
+
+## **Use AI responsibly**
+
+Be thoughtful about the information you input into publicly available AI tools. You never want to share confidential or sensitive information about your company, or personal information about yourself or coworkers. When in doubt, don’t share the information. You can also check if your organization has an enterprise version of an AI tool that is approved for other types of use.
+
+Many organizations have policies for using AI. Check your organization’s policies before using AI and be sure to share that policy with the team.
+
+## **Key takeaways**
+
+When used effectively and responsibly, AI can be a valuable asset. Not only can it help you become more efficient and productive, AI can create more time for strategic thinking and innovation. Take the time to learn how the tools work and remember best practices, like the prompting framework, to get the most value from AI.
+
+Resources for more information
+
+-   Learn more about using AI and writing AI prompts with the [Google AI Essentials Specialization](https://www.coursera.org/learn/google-ai-essentials)
+    
+
+.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MTUwOTIyLC0xOTgwMzc2MzUxXX0=
+eyJoaXN0b3J5IjpbLTE1NDA0MTc3MTIsNDU3MTUwOTIyLC0xOT
+gwMzc2MzUxXX0=
 -->
