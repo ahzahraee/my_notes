@@ -239,8 +239,7 @@ Resources for more information
 
 -   Learn more about using AI and writing AI prompts with the [Google AI Essentials Specialization](https://www.coursera.org/learn/google-ai-essentials)
     
-# Excersis
-
+# Exercise
 
 Effective teams don't just happen—they're built. Great teams are able to discuss challenges openly, collaborate on hard problems, and treat mistakes as learning opportunities. This leads to innovation, improvement, and better results.
 
@@ -251,7 +250,22 @@ As a manager you can build team effectiveness in three key ways:
 2.  Encourage open communication by welcoming feedback and inviting different perspectives across the team.
     
 3.  Create a culture of learning, not blame, where mistakes are considered opportunities for growth and improvement.
+ 
+ **Instructions**
+
+In this activity, you'll act as a manager and address three common team challenges. Each scenario will ask you to apply a strategy to build team effectiveness. Using a provided template and Gemini as your brainstorming partner, your mission is to develop a practical plan to improve your team's effectiveness. Here's an overview of the steps you'll take to complete this activity:
+
+-   First, you'll access the activity's template
+    
+-   Next, you'll complete any three of the four scenario options. For each scenario you choose, you'll fill out the corresponding template section.
+    
+-   Finally, you'll mark the final question as "Yes" to complete this activity. You do NOT have to submit your template to complete the activity, but feel free to keep it to refer back to in the future!
+    
+
+This activity is optional but highly recommended to help you practice management skills. The next course item will provide you with a completed exemplar to compare to your own work. You will not be able to access the exemplar until you have completed this activity.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3Njg5ODEyLDk2MTA2MTkxNCwyNzE2ND
-Y5NjIsNDU3MTUwOTIyLC0xOTgwMzc2MzUxXX0=
+eyJoaXN0b3J5IjpbLTc0MDM1OTYwNiw5NjEwNjE5MTQsMjcxNj
+Q2OTYyLDQ1NzE1MDkyMiwtMTk4MDM3NjM1MV19
 -->
