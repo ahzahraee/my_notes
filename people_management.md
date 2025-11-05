@@ -428,7 +428,7 @@ The first outreach is just the beginning. Developing relationships over time is 
 -   **Be a consistent resource:** Let them know you’re always available as a sounding board for new ideas.
     
 
-## **Putting your network to work**
+**Putting your network to work**
 
 Investing in your relationships will make it easier to work together when the opportunity comes. Here’s how you might collaborate with teams throughout the organization:
 
@@ -441,7 +441,7 @@ Investing in your relationships will make it easier to work together when the op
 -   **Address issues early**: If a potential conflict arises, you might reach out and say, “I think there might be some miscommunication between the teams we lead. Do you have a few minutes to discuss?”
     
 
-## **Key takeaways**
+**Key takeaways**
 
 Managing up and across is a skill that multiplies your effectiveness. To start building it today, ask yourself:
 
@@ -451,7 +451,7 @@ Managing up and across is a skill that multiplies your effectiveness. To start b
     
 3.  **What is my next step?** Block time on your calendar to send that first email or to schedule that follow-up coffee chat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTczMDkwNiwyODMyMzAzMzAsMjM3MT
-gzNDg1LC03NDAzNTk2MDYsOTYxMDYxOTE0LDI3MTY0Njk2Miw0
-NTcxNTA5MjIsLTE5ODAzNzYzNTFdfQ==
+eyJoaXN0b3J5IjpbLTE1NTI2MjI3NDIsMjgzMjMwMzMwLDIzNz
+E4MzQ4NSwtNzQwMzU5NjA2LDk2MTA2MTkxNCwyNzE2NDY5NjIs
+NDU3MTUwOTIyLC0xOTgwMzc2MzUxXX0=
 -->
