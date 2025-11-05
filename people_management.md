@@ -362,8 +362,96 @@ In your activity template, go to the Scenario 4 section. First, identify one App
 **Approach**
 
 **Why** this approach is the best choice
+
+# Manage up and across your organization
+
+Ever feel like your team is an island, cut off from the resources and influence needed to succeed? As a manager, your job is to build bridges off of that island, managing smarter _outside_ your team. Effective managers build a strong network of support with peers (managing across) and senior leaders (managing up). This network is your key to unlocking resources and getting timely advice, so your team has the access and visibility it needs to have a real business impact.
+
+Here are practical strategies you can use to build these crucial relationships.
+
+## **Start with a plan: Create your relationship map**
+
+Knowing who to connect with can feel overwhelming, so don't start with outreach. Start with a plan. A relationship map is your strategic guide to building a network. It doesn't have to be fancy, a simple list of names in a document or a quick sketch of who your team is connected to, like the one below, is all you need.
+
+To build your map, ask yourself these questions:
+
+-   **Collaboration:** Who leads the teams we currently work with or should be working with?
+    
+-   **Inspiration:** Who is leading work that I admire or want to learn more about?
+    
+-   **Mentorship:** Who has the experience or skills I could learn from?
+    
+-   **Influence:** Who makes the key decisions that impact my team's success?
+    
+
+Answering these questions transforms a vague goal ("I should network more") into a clear, actionable plan. You now know _who_ to reach out to and, just as importantly, _why_.
+
+![A relationship map example. “Our team” is between “Sales” and “Engineering.” An arrow points up to the “VP of marketing.”](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/_aecca5ffa4a44ddcb620ae6baee987ae_image.png?expiry=1762473600000&hmac=_bV3VfmsBVmAzraOKSYDNCowYmLq3zwVBqbXiuRM0TQ)
+
+Take a few minutes to write down some names now. Once you have your list, jot down a few topics you would want to cover with each person. Then, add a reminder on your to-do list to reach out.
+
+You don’t have to contact everyone at once. Make managing up and across an ongoing part of your routine. Try blocking time on your calendar to reach out to one new person regularly.
+
+## **Make the first move: Reach out authentically**
+
+With your map in hand, you can begin making connections. The right approach depends on the person. For a peer, a simple email asking for an in-person or virtual coffee works well. For a more senior leader, you might introduce yourself after a meeting, and let them know that you appreciated hearing their perspective.
+
+The golden rule is to lead with generosity. A relationship built on genuine helpfulness is one that will last. Consider these approaches:
+
+-   **Offer specific help:** "I heard your team is tackling [project name]. My team just completed something similar, and we learned a few things that might be helpful. Would you be open to a quick chat?"
+    
+-   **Share relevant information:** "I just read this article on [industry trend] and immediately thought of your work. It has some interesting data that might be useful for your team's strategy."
+    
+-   **Show curiosity:** “I’ve been really interested in what you’ve been saying in our staff meetings and I’d like to learn more about your perspective, so my team and I can be helpful partners.”
+    
+-   **Provide a new perspective:** "I've been exploring how [new technology] could apply to our work. Since your team is also focused on [shared goal], I'd be happy to share my initial thoughts if you're interested."
+    
+
+To help you get started, here’s a sample email template to use when reaching out to offer assistance:
+
+_**Subject:**_ _Sharing insights on [topic]_
+
+_I understand you’re working on [project name] and wanted to connect. Our team has experience with [relevant experience or project]. I’d like to connect to hear your insights. And, if it’s helpful, I’d be happy to share how we approached it and what we learned._
+
+_Please let me know if there’s anything I can do to help. I’m open to meet or have a call if you have questions or want to talk through anything._
+
+## **From connection to champion: How to strengthen your network**
+
+The first outreach is just the beginning. Developing relationships over time is what can turn a simple connection into a strong champion. Make relationship-building a consistent part of your routine.
+
+-   **Schedule regular check-ins:** A quarterly coffee chat can keep the connection warm.
+    
+-   **Remember personal details:** Follow up on personal milestones or shared interests. A simple "How did your daughter's soccer tournament go?" shows you listen and care.
+    
+-   **Celebrate their success:** A quick note congratulating them on a promotion or a successful project launch goes a long way.
+    
+-   **Be a consistent resource:** Let them know you’re always available as a sounding board for new ideas.
+    
+
+## **Putting your network to work**
+
+Investing in your relationships will make it easier to work together when the opportunity comes. Here’s how you might collaborate with teams throughout the organization:
+
+-   **Identify shared goals:** "How can we align our department goals to meet the organization's yearly targets?”
+    
+-   **Suggest combined efforts:** "What if we merged our budgets for this initiative? We could address the challenge more effectively together."
+    
+-   **Propose joint solutions:** "If we present this resource request to leadership as a joint proposal, we can show how it benefits multiple departments and the company as a whole."
+    
+-   **Address issues early**: If a potential conflict arises, you might reach out and say, “I think there might be some miscommunication between the teams we lead. Do you have a few minutes to discuss?”
+    
+
+## **Key takeaways**
+
+Managing up and across is a skill that multiplies your effectiveness. To start building it today, ask yourself:
+
+1.  **Who is on my map?** Take five minutes right now to identify three people you should connect with this month.
+    
+2.  **How can I be helpful?** For each person on your list, what is one piece of information, one insight, or one offer of help you can extend?
+    
+3.  **What is my next step?** Block time on your calendar to send that first email or to schedule that follow-up coffee chat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3MTgzNDg1LC03NDAzNTk2MDYsOTYxMD
-YxOTE0LDI3MTY0Njk2Miw0NTcxNTA5MjIsLTE5ODAzNzYzNTFd
-fQ==
+eyJoaXN0b3J5IjpbMjgzMjMwMzMwLDIzNzE4MzQ4NSwtNzQwMz
+U5NjA2LDk2MTA2MTkxNCwyNzE2NDY5NjIsNDU3MTUwOTIyLC0x
+OTgwMzc2MzUxXX0=
 -->
