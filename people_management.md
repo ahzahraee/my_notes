@@ -191,11 +191,11 @@ What truly separates the two approaches isn't just the use of AI, but _how_ it's
 
 Learning to craft a good prompt is the key to transforming AI from a simple tool into an effective, collaborative assistant.
 
-## **The five components of an effective prompt**
+ **The five components of an effective prompt**
 
 A great prompt provides all the information the AI needs to succeed. Let's deconstruct Maria's prompt to see these five key ingredients in action.
 
-### **Deconstructing the prompt**
+ **Deconstructing the prompt**
 
 1.  [Persona] _“You are a seasoned marketing strategist.”_
     
@@ -208,7 +208,7 @@ A great prompt provides all the information the AI needs to succeed. Let's decon
 5.  [Example] _“For reference, here are initial thoughts from the team…<Maria adds the “Strategy Session” document>.”_
     
 
-### **The prompting framework explained**
+ **The prompting framework explained**
 
 1.  **Assign a Persona**: Tell the AI who to be. This sets the tone, perspective, and expertise for the response.
     
@@ -221,7 +221,7 @@ A great prompt provides all the information the AI needs to succeed. Let's decon
 5.  **Include an Example**: If possible, provide a reference of what you're looking for. This helps the AI understand your quality bar and style.
     
 
-## **The final step: Evaluate and iterate**
+ **The final step: Evaluate and iterate**
 
 AI's output is a starting point, not a final product. Always evaluate the response for accuracy and bias, and then iterate by refining your prompt or editing the output directly. The best results come from a partnership where AI provides the first draft and you provide the final, human touch.
 
@@ -242,6 +242,6 @@ Resources for more information
 
 .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2MTEyMjA4LDI3MTY0Njk2Miw0NTcxNT
-A5MjIsLTE5ODAzNzYzNTFdfQ==
+eyJoaXN0b3J5IjpbLTEwOTU2MDE1MTAsMjcxNjQ2OTYyLDQ1Nz
+E1MDkyMiwtMTk4MDM3NjM1MV19
 -->
