@@ -166,13 +166,9 @@ Now, let's see how Maria could approach this differently using AI as a partner.
 
 **A better approach**
 
--   First, Maria asks an AI assistant, like [Gemini](https://gemini.google.com/)
+-   First, Maria asks an AI assistant, like [Gemini](https://gemini.google.com/), to help her develop a meaningful strategy session using a prompt like:
     
-
--   , to help her develop a meaningful strategy session using a prompt like:
-    
-
-_"You are a seasoned marketing strategist. Define 3-4 clear, actionable objectives and a detailed agenda for a half-day team strategy session. We want to translate our high-level strategy into a detailed, tactical plan for the year. Present the objectives as a numbered list, each with a brief rationale explaining its importance to the session. Structure the agenda in three parts: a detailed, timed schedule for the half-day session, a description of each activity, and an explanation of how that activity will help meet the session’s objectives. For reference, here are some ideas …<Maria adds the “Strategy Session” document the team contributed to.>"_
+*You are a seasoned marketing strategist. Define 3-4 clear, actionable objectives and a detailed agenda for a half-day team strategy session. We want to translate our high-level strategy into a detailed, tactical plan for the year. Present the objectives as a numbered list, each with a brief rationale explaining its importance to the session. Structure the agenda in three parts: a detailed, timed schedule for the half-day session, a description of each activity, and an explanation of how that activity will help meet the session’s objectives. For reference, here are some ideas … (Maria adds the “Strategy Session” document the team contributed to.)*
 
 Within seconds, she has a list of focused objectives and a tailored agenda that provide a solid foundation for the meeting. Maria then spends a few minutes revising the objectives and agenda, giving them the detail and substance that only she can provide.
 
@@ -246,6 +242,6 @@ Resources for more information
 
 .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxNjQ2OTYyLDQ1NzE1MDkyMiwtMTk4MD
-M3NjM1MV19
+eyJoaXN0b3J5IjpbLTE2NTc0OTU0NDAsMjcxNjQ2OTYyLDQ1Nz
+E1MDkyMiwtMTk4MDM3NjM1MV19
 -->
